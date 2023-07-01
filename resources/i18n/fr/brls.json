@@ -1,7 +1,7 @@
 {
     "hints": {
         "ok": "OK",
-        "back": "Anuller",
+        "back": "Annuler",
         "exit": "Quitter"
     },
 
@@ -10,6 +10,6 @@
     },
     
     "thumbnail_sidebar": {
-        "save": "Sauvegader"
+        "save": "Sauvegarder"
     }
 }
